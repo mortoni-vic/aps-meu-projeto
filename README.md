@@ -24,6 +24,6 @@ Desenvolver uma Single Page Application (SPA) simples, responsiva e acessível u
 Turma 2025.1 – Centro Universitário Carioca
 
 ## 🌐 Links
-🔗 Repositório no GitHub:(https://github.com/mortoni-vic/aps-meu-projeto)  
+🔗 Repositório no GitHub:https://github.com/mortoni-vic/aps-meu-projeto 
 
 
